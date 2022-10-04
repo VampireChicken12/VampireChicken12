@@ -62,6 +62,15 @@
     </p>
 </details>
 <details open>
+    <summary>Technologies</summary>
+    <p align="center">
+        <img
+            src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&labelColor=02172c&color=02172c" />
+        <img
+            src="https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes&labelColor=02172c&color=02172c" />
+    </p>
+</details>
+<details open>
     <summary>Libraries I've used</summary>
     <p align="center">
         <img
