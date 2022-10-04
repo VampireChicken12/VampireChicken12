@@ -1,20 +1,30 @@
-<div style="display: flex; flex-direction: column; align-items: center">
+<p align="center">
     <a href="https://discord.com/users/218499752172453888">
-        <img src="https://lanyard-profile-readme.vercel.app/api/218499752172453888?bg=02172c&borderRadius=4.5px" alt="Discord Presence" />
+        <img
+            src="https://lanyard-profile-readme.vercel.app/api/218499752172453888?bg=02172c&borderRadius=4.5px"
+            alt="Discord Presence"
+            width="410px" />
     </a>
+</p>
+<p align="center">
     <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=VampireChicken12&layout=compact&cache_seconds=7200&text_color=3798f6&title_color=f63798&icon_color=f63739&bg_color=02172c"
-        width="410px" alt="Most Used Languages" />
+        align="top"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=VampireChicken12&layout=compact&cache_seconds=7200&text_color=3798f6&title_color=f63798&icon_color=f63739&bg_color=02172c&hide_border=true"
+        width="410px"
+        alt="Most Used Languages" />
     <img
-        src="https://github-readme-stats.vercel.app/api?username=VampireChicken12&count_private=true&show_icons=true&theme=onedark&cache_seconds=7200&custom_title=VampireChicken%27s+Github+Stats&text_color=3798f6&title_color=f63798&icon_color=f63739&bg_color=02172c"
-        width="410px" alt="VampireChicken's Github Stats" />
+        align="top"
+        src="https://github-readme-stats.vercel.app/api?username=VampireChicken12&count_private=true&show_icons=true&theme=onedark&cache_seconds=7200&custom_title=VampireChicken%27s+Github+Stats&text_color=3798f6&title_color=f63798&icon_color=f63739&bg_color=02172c&hide_border=true"
+        width="410px"
+        alt="VampireChicken's Github Stats" />
     <a href="https://github.com/Member-Counter/bot">
         <img
-            src="https://github-readme-stats.vercel.app/api/pin?username=Member-Counter&repo=bot&cache_seconds=7200&text_color=3798f6&title_color=f63798&icon_color=f63739&bg_color=02172c&show_owner=true"
+            align="top"
+            src="https://github-readme-stats.vercel.app/api/pin?username=Member-Counter&repo=bot&cache_seconds=7200&text_color=3798f6&title_color=f63798&icon_color=f63739&bg_color=02172c&show_owner=true&hide_border=true"
             alt="Member Counter Bot"
             width="410px" />
     </a>
-</div>
+</p>
 <details open>
     <summary>Languages I've coded in</summary>
     <p align="center">
