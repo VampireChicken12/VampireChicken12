@@ -65,19 +65,19 @@
     <summary>Libraries I've used</summary>
     <p align="center">
         <img
-            src="https://img.shields.io/badge/Chart.js	-black?style=for-the-badge&logo=chartdotjs&labelColor=02172c&color=02172c" />
+            src="https://img.shields.io/badge/Chart.js-black?style=for-the-badge&logo=chartdotjs&labelColor=02172c&color=02172c" />
         <img
-            src="https://img.shields.io/badge/D3.js	-black?style=for-the-badge&logo=d3dotjs&labelColor=02172c&color=02172c" />
+            src="https://img.shields.io/badge/D3.js-black?style=for-the-badge&logo=d3dotjs&labelColor=02172c&color=02172c" />
         <img
-            src="https://img.shields.io/badge/React	-black?style=for-the-badge&logo=react&labelColor=02172c&color=02172c" />
+            src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&labelColor=02172c&color=02172c" />
         <img
-            src="https://img.shields.io/badge/React Query	-black?style=for-the-badge&logo=reactquery&labelColor=02172c&color=02172c" />
+            src="https://img.shields.io/badge/React Query-black?style=for-the-badge&logo=reactquery&labelColor=02172c&color=02172c" />
         <img
-            src="https://img.shields.io/badge/Socket.io	-black?style=for-the-badge&logo=socketdotio&labelColor=02172c&color=02172c" />
+            src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socketdotio&labelColor=02172c&color=02172c" />
         <img
             src="https://img.shields.io/badge/Jest-black?style=for-the-badge&logo=jest&labelColor=02172c&color=02172c&logoColor=C21325" />
         <img
-            src="https://img.shields.io/badge/Lodash	-black?style=for-the-badge&logo=lodash&labelColor=02172c&color=02172c" />
+            src="https://img.shields.io/badge/Lodash-black?style=for-the-badge&logo=lodash&labelColor=02172c&color=02172c" />
     </p>
 </details>
 <details open>
@@ -90,9 +90,9 @@
         <img
             src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs&labelColor=02172c&color=02172c" />
         <img
-            src="https://img.shields.io/badge/Bootstrap	-black?style=for-the-badge&logo=bootstrap&labelColor=02172c&color=02172c" />
+            src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&labelColor=02172c&color=02172c" />
         <img
-            src="https://img.shields.io/badge/Node.js	-black?style=for-the-badge&logo=nodedotjs&labelColor=02172c&color=02172c" />
+            src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&labelColor=02172c&color=02172c" />
     </p>
 </details>
 <details open>
