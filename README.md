@@ -13,11 +13,12 @@
         width="410px" alt="VampireChicken's Github Stats" />
 
 </p>
-<a href="https://github.com/Member-Counter/bot">
-    <img align="top"
-        src="https://github-readme-stats.vercel.app/api/pin?username=Member-Counter&repo=bot&cache_seconds=7200&text_color=3798f6&title_color=f63798&icon_color=f63739&bg_color=02172c&show_owner=true&hide_border=true"
-        alt="Member Counter Bot" width="410px" />
-</a>
+<p align="center">
+    <a href="https://github.com/Member-Counter/bot">
+        <img align="top"
+            src="https://github-readme-stats.vercel.app/api/pin?username=Member-Counter&repo=bot&cache_seconds=7200&text_color=3798f6&title_color=f63798&icon_color=f63739&bg_color=02172c&show_owner=true&hide_border=true"
+            alt="Member Counter Bot" width="410px" />
+    </a>
 </p>
 <details open>
     <summary>Languages I've coded in</summary>
