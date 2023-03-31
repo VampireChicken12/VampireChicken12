@@ -8,6 +8,8 @@
     <img align="top"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=VampireChicken12&layout=compact&cache_seconds=7200&text_color=3798f6&title_color=f63798&icon_color=f63739&bg_color=02172c&hide_border=true"
         width="410px" alt="Most Used Languages" />
+</p>
+<p align="center">
     <img align="top"
         src="https://github-readme-stats.vercel.app/api?username=VampireChicken12&count_private=true&show_icons=true&theme=onedark&cache_seconds=7200&custom_title=VampireChicken%27s+Github+Stats&text_color=3798f6&title_color=f63798&icon_color=f63739&bg_color=02172c&hide_border=true"
         width="410px" alt="VampireChicken's Github Stats" />
