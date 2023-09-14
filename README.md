@@ -23,7 +23,7 @@
 	<a href="https://github.com/VampireChicken12/youtube-enhancer">
 <img
 				align="top"
-				src="https://github-readme-stats.hikari-bot.com/api/pin?username=VampireChicken12&repo=bot&cache_seconds=7200&text_color=3798f6&title_color=f63798&icon_color=f63739&bg_color=02172c&show_owner=true&hide_border=true"
+				src="https://github-readme-stats.hikari-bot.com/api/pin?username=VampireChicken12&repo=youtube-enhancer&cache_seconds=7200&text_color=3798f6&title_color=f63798&icon_color=f63739&bg_color=02172c&show_owner=true&hide_border=true"
 				alt="YouTube Enhancer"
 				width="410px" />
 		</a>
